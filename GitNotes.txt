@@ -1,0 +1,26 @@
+git remote add <name for repo> <repo url>
+git remote add remoteRep https://github.com/rfbu/Hello-World-by-rfbu-pt2.git
+
+git push -u <repo name> <local branch>
+git push -u remoteRep master
+
+git log
+
+git add <filename>
+git add aTest.txt
+
+git commit <filename> --m "message here"
+git commit aTest.txt --m "stuff"
+
+git branch <branchname>
+
+git branch ==>> show all local branches
+
+git branch -a ==>> show local and remote branches
+
+git pull ==>> get latest from repo
+
+git checkout ==>> change to require branch
+
+git merge <branchname>
+this will put changes into <branchname> in current branch 
