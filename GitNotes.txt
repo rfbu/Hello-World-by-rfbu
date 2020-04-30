@@ -1,5 +1,5 @@
 git remote add <name for repo> <repo url>
-git remote add remoteRep https://github.com/rfbu/Hello-World-by-rfbu-pt2.git
+git remote add remoteRep https://github.com/<user>/<repo name>.git
 
 git push -u <repo name> <local branch>
 git push -u remoteRep master
