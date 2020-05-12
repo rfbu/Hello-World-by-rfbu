@@ -24,3 +24,5 @@ git checkout ==>> change to require branch
 
 git merge <branchname>
 this will put changes into <branchname> in current branch 
+
+git restore . => rollback all recent changes
